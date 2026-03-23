@@ -4,7 +4,7 @@ Research craft and intelligence — 557 skills and 35 commands across market res
 
 ## What this is
 
-An open-source skill pack for AI coding agents and research practitioners. Every skill is 3,000 words of practitioner-depth knowledge — real frameworks, real case studies, real mental models, and real execution guidance.
+An open-source skill pack for AI coding agents and research practitioners. Every skill has a practitioner-level depth of knowledge — real frameworks, real case studies, real mental models, and real execution guidance.
 
 ## Domains
 
@@ -39,13 +39,6 @@ claude plugin add --marketplace Dragoon0x/research-sharp
 ## Case Studies
 
 Figma (market sizing a new category), Airbnb (contextual inquiry transforming bookings), Salesforce (CI machine), Netflix (data-driven decisions at scale), IDEO (deep empathy research), Spotify (research-driven culture), Dropbox (pre-build validation), Slack (Van Westendorp pricing)
-
-## Stats
-
-- **557 skills**, each ~3,000 words of practitioner-depth content
-- **35 commands** for common research workflows
-- **1.6M+ total words** of real research knowledge
-- **8 domains** covering the full research spectrum
 
 ## Legal
 
